@@ -8,6 +8,7 @@ QuickNote is a frictionless note-taking tool designed for Windows users who want
 
 ![image](https://github.com/user-attachments/assets/90712bb9-b092-4921-8fe4-1a02a3749a85)
 
+![chrome_1ca8uJ5qPS](https://github.com/user-attachments/assets/abe1f91f-73ab-440c-a326-eb4f4b33307d)
 
 ## Features
 
